@@ -1,0 +1,58 @@
+*{
+    padding: 2px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;       
+}
+img:hover{
+    border: 1px, grey, solid;
+}
+.heading {
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+.form {
+    background-color: purple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+}
+table {
+    color: white;
+    /*padding: 50px;*/
+}
+#tdcenter {
+    text-align: center;
+}
+.submitPage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+.thankyou{
+    text-align: center;
+    color: mediumseagreen;
+}
+#goback{
+    text-align: center;
+    color: purple;
+}
+#footer{
+    text-align: center;
+}
+a {
+   text-decoration: none; 
+}
+button:hover {
+    background-color: greenyellow;
+    color: firebrick;
+}
